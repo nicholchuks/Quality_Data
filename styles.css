@@ -552,7 +552,7 @@ option {
 
 input {
   width: 200px;
-  height: 20px;
+  height: 40px;
   padding: 10px 20px;
   border: 1px solid teal;
   border-radius: 10px;
