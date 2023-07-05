@@ -10,7 +10,6 @@ MenuBtn.addEventListener("click", () => {
   NavList.classList.toggle("show-sidebar");
 });
 
-// CloseBtn.addEventListener("click", () => {
-//   NavList.classList.remove("show-sidebar");
-//   CloseBtn.classList.remove("show-sidebar");
-// });
+CloseBtn.addEventListener("click", () => {
+  NavList.classList.remove("show-sidebar");
+});
